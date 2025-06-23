@@ -4,10 +4,10 @@
 
 ## Utils
 
-[https://huggingface.co/docs/datasets/stream](Stream)
+[Stream](https://huggingface.co/docs/datasets/stream)
 
 ---
 
 ## Datasets
 
-[https://huggingface.co/datasets/Salmonnn/imagenet-21k](HuggingFace)
+[HuggingFace](https://huggingface.co/datasets/Salmonnn/imagenet-21k)
