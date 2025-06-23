@@ -1,7 +1,6 @@
 - 23/06/2025 - Uni Meeting
 
 (1) Filtraggio Immagini Utili Allo Scopo (vedi metadata file)
-(2) Analisi Immagini db
 (3) Decisione del modello in base alla dim delle immagini => 384x384
 (4) Implementazione del modello e pre-training su imagenet21k con stream (hugging face)
 
